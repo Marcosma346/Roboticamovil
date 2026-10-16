@@ -72,7 +72,7 @@ Aun así, a veces se quedaba clavado contra la pared. Añadí un paso de retroce
 
 ## Resultado
 
-Con todas las mejoras, el robot cubre aproximadamente el XX% del área (si lo sabes), y ya no se queda atascado. El comportamiento es estable y cubre bien la casa.
+Con todas las mejoras, el robot cubre aproximadamente el 93% del area en unsos 20 minutos, el video esta en x20 para que dure poco, y ya no se queda atascado. El comportamiento es estable y cubre bien la casa.
 
 ### Video
 
