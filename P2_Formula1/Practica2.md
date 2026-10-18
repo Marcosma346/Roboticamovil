@@ -33,6 +33,9 @@ El PID calcula el giro a partir del error:
 | D (Kd) | Amortigua el giro | Sí, para evitar oscilación |
 
 ## Desarrollo
+### Centrar camara
+
+Lo primero que tuve que tuve que hacer era centrar la camara ya que no est en centro del vehiculo , el vehiculo al principio no estba centrado en la linea, estaba centrada la camara, tuve que movel el vehiculo y ver ese centro de la imagen, el cual era 380, a partir de ahi utilice ese numero para que el coche fuese recto 
 
 ### Primer intento: detección de la línea
 
