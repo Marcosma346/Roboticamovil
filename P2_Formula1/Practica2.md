@@ -69,6 +69,22 @@ Con todas las mejoras, el coche completa el circuito en 42-43 segundos. Oscila u
 - **Oscilación**: transitoria, de 1-2 segundos.
 
 ### Vídeos
+#### Circuito Simple ( 43,23 segundos )
+https://github.com/user-attachments/assets/dafa74ec-09f0-4782-94a8-b88cb5dfc102
+
+#### Circuito Montreal ( 97,31 segundos )
+
+https://github.com/user-attachments/assets/cb6f08f3-c044-416e-9af8-59b10ff08a89
+
+#### Circuito Montmelo ( 77,70 segundos )
+
+https://github.com/user-attachments/assets/df524d30-7ecf-4b2c-8d0d-12f251198eb7
+
+#### Circuito Nurburgring ( 58,76 segundos )
+
+https://github.com/user-attachments/assets/d4019fb2-79a5-47db-bafd-129f2b84284a
+
+
 
 
 ## Reflexión
