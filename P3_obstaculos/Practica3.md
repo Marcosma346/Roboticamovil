@@ -60,6 +60,9 @@ El comportamiento general es estable y las fuerzas se calculan correctamente.
 
 ## Vídeo
 
+https://github.com/user-attachments/assets/cb036bbf-148b-49e1-a58c-369554b16083
+
+Duración aproximada: 
 
 ## Reflexión
 
